@@ -10,7 +10,7 @@ namespace Teszt
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Fasz");
+            Console.WriteLine("Fasz + cigány");
             Console.ReadLine();
         }
     }
