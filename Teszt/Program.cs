@@ -10,6 +10,8 @@ namespace Teszt
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Fasz");
+            Console.ReadLine();
         }
     }
 }
